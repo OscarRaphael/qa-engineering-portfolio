@@ -1,0 +1,15 @@
+# Dependências instaladas pelo npm.
+node_modules/
+# Logs de execução locais.
+*.log
+
+# Artefatos gerados pelo Cypress.
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Arquivos locais que podem conter tokens e outras credenciais.
+.env
+.env.*
+!.env.example
+cypress.env.json

@@ -1,0 +1,13 @@
+{
+  "name": "playwright_studies",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "cypress run"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^16.3.0"
+  }
+}
